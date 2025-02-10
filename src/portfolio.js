@@ -153,20 +153,14 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Projects",
+  subtitle: "A Glimpse of My College Projects",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: ""
-        }
-        //  you can add extra buttons here.
-      ]
+      image: require("./assets/images/HFL.jpg"),
+      projectName: "Human Following Robot",
+      projectDesc: "Human Follwing Robot Integrated With UR-Sensor & Arduino",
+      
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
